@@ -76,14 +76,7 @@ To znači:
 - Java deo služi za pripremu podataka i feature engineering,
 - Weka deo služi za trening/test i merenje performansi modela.
 
-## Pokretanje
-Projekat je NetBeans/Ant Java projekat (`build.xml` u folderu `Projekat_2022204048`).
 
-Tipičan tok:
-1. otvoriti projekat u NetBeans-u,
-2. pokrenuti `Projekat_2022204048.java`,
-3. dobiti `test_weka.arff`,
-4. otvoriti ARFF u Weka i uraditi klasifikaciju/evaluaciju.
 
 
 
