@@ -85,10 +85,7 @@ Tipičan tok:
 3. dobiti `test_weka.arff`,
 4. otvoriti ARFF u Weka i uraditi klasifikaciju/evaluaciju.
 
-## Napomena
-Ako želiš da ARFF ide na drugu lokaciju, izmeni putanju za upis u:
 
-- `src/projekat_2022204048/Projekat_2022204048.java`
 
 ---
 
