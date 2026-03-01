@@ -65,9 +65,7 @@ Za svaku instancu se računa 12 feature-a:
 	 Analogan pokazatelj za 5-grame, koji hvata dugodometnije obrasce nego `k_3`. Koristan je za razlikovanje šifara koje imaju sličnu lokalnu, ali različitu globalnu strukturu.
 
 ### 3) Izvoz za Weka
-Program pravi ARFF fajl sa relacijom i atributima, i upisuje ga na putanju:
-
-`C:\Users\gile\Desktop\test_weka.arff`
+Java aplikacija formira ARFF strukturu (relation + attributes + data) i eksportuje je u lokalni fajl na zadatoj putanji.
 
 ## Weka deo (testiranje i rezultati)
 Nakon generisanja ARFF fajla, klasifikacija i evaluacija su rađene u **Weka** alatu.
