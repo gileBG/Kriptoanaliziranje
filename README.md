@@ -1,7 +1,6 @@
-# Kriptoanalizanje
+# Kriptoanaliziranje
 
 ## Opis projekta
-Ovaj projekat je realizovan za predmet **Osnove kriptoanalize**.
 Cilj je klasifikacija šifrovanih tekstova prema tipu šifre korišćenjem:
 
 - ekstrakcije statističkih i informacionih obeležja iz šifrata (Java),
