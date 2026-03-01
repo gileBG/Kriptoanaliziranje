@@ -65,6 +65,6 @@ Ako želiš da ARFF ide na drugu lokaciju, izmeni putanju za upis u:
 
 ---
 
-Autor: GileBG  
-Predmet: Osnove kriptoanalize  
-Godina: 2026
+Autor: gileBG  
+
+
